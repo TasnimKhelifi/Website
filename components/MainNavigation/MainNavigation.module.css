@@ -1,0 +1,23 @@
+.mainContainer {
+  border-radius: 5px;
+  border: 2px solid gray;
+  background-color: white;
+  margin: 20px 0;
+}
+.description {
+  font-size: 10px;
+  color: rgb(102, 102, 102);
+}
+.register {
+  cursor: pointer;
+  padding: 20px;
+}
+
+.login {
+  cursor: pointer;
+  padding: 20px;
+}
+
+.verticalLine {
+  border-left: 2px solid gray;
+}

@@ -1,0 +1,31 @@
+.signupContainer {
+  display: flex;
+  align-items: center;
+  padding: 30px 0 100px 0;
+  min-height: 100vh;
+}
+
+.inputRow {
+  margin: 10px 0 10px 0;
+  display: flex;
+  justify-content: center;
+}
+.input {
+  border: 2px solid gray;
+  padding: 25px 20px;
+  border-radius: 6px;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.submitButton {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 50px;
+  border: none;
+}

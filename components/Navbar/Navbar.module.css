@@ -1,0 +1,20 @@
+.navbar {
+  background-color: black;
+}
+
+.navItem {
+  color: white;
+  margin: 5px 15px;
+}
+
+.conntectedUser {
+  height: 30px;
+  width: 30px;
+  color: black;
+  background-color: white;
+  border-radius: 50%;
+  margin: 5px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
